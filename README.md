@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Benjamin @benjaminuwizeye
-- 👀 I’m interested in Web Dev (Java, Angular, etc..)
+- 👀 I’m interested in Web App Development (Java, Angular, ..)
 - 🌱 I’m currently learning Ecommerce web app development with Spring boot, restful apis and angular
-- 💞️ I’m looking to collaborate on any tech related to Ecommerce web App development
+- 💞️ I’m looking to collaborate on any subject related to Ecommerce web App development
 - 📫 How to reach me :  benjaminuwizeye@ymail.com
 
 <!---
